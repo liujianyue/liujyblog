@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: liujianyue
-baseurl: /StrayBirds
+baseurl: /liujyblog
 markdown: redcarpet
 safe: false
 highlighter: pygments
